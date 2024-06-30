@@ -24,15 +24,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+Criação de uma imagem que representasse a faixa verde dando a alusão do certificado green belt da Lean Six Sigma.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+bing ai image
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Pela facilidade da IA foi necessário colocar em texto a ideia de imagem que gostaria e dessa forma a própria IA fez a criação da imagem.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+Forma diferenciada para compartilhar uma conquista de certificação.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
